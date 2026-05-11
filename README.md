@@ -151,10 +151,12 @@ while(player):
 <img width="378" height="799" alt="image" src="https://github.com/user-attachments/assets/8b4da61a-fa63-4cfe-8a5c-75583b562c54" />
 
 
-<h1>Result:</h1>
 
-Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
 <hr>
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+
+<h1>Result:</h1>
+
+Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
